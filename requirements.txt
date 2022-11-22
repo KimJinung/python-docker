@@ -1,5 +1,2 @@
 pyspark >= 3.0.0
-numpy >= 1.23.5
-python-dateutil
-pytz
-pandas
+pandas >= 1.4.0
